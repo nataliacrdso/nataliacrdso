@@ -1,7 +1,7 @@
-<h1 style="color: #847E89;">
+<h3>
  Hello there! Welcome to my GitHub profile!
-  <img src="https://giphy.com/gifs/pixelart-pixel-art-8bit-utfeiHQ7CcpyRtXla6" width="50"/>
-</h1> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRnbmVvbzlkZmlwczlxb3U4Z2dzbmx4YXZ3MmRyY3RsbHoyZmhnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif" width="50"/>
+</h3> 
 
 ✨ I’m Nat, nice to meet you!<br>
 🎓 I recently graduated in Systems Analysis and Development (:<br>
