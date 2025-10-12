@@ -1,4 +1,4 @@
-# Hello there!
+ Hello there!
 
 ✨ I’m Nat, nice to meet you!<br>
 🎓 I recently graduated in Systems Analysis and Development (:<br>
