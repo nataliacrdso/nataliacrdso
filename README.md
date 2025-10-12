@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there!
 
-<!--
-**nataliacrdso/nataliacrdso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I’m Nat, nice to meet you! 
+🎓 I recently graduated in Systems Analysis and Development (:
+👩🏻‍💻 I enjoy programming with Python, HTML, CSS, and JavaScript. I'm delving deeper into Java,
+   and I also love working with databases, both SQL and NoSQL.
+👥 I am open to collaborations on new projects!
+👾 Pixel art lover (:
+📝 Exploring new technologies and challenges.
+📩 E-mail: nat1998@outlook.com.br
+🔗 Linkedin: https://www.linkedin.com/in/natcardoso/
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=radical)
+[Potatoes Killer]([link-do-projet](https://github.com/nataliacrdso/PotatoesKiller) – A simple and fun game that I loved making :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
