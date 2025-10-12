@@ -5,8 +5,8 @@
 
 ✨ I’m Nat, nice to meet you!<br>
 🎓 I recently graduated in Systems Analysis and Development (:<br>
-👩🏻‍💻 I enjoy programming with Python, HTML, CSS, and JavaScript. I'm delving deeper into Java, and I also love working with databases, both SQL and NoSQL.<br>
-👥 I am open to collaborations on new projects!<br>
+👩🏻‍💻 I enjoy programming with Python, HTML, CSS, and JavaScript.<br> I'm delving deeper into Java, and I also love working with databases, both SQL and NoSQL.<br>
+👥 I'm open to collaborations on new projects!<br>
 👾 Pixel art lover (:<br>
 📝 Exploring new technologies and challenges.<br>
 📩 E-mail: nat1998@outlook.com.br<br>
