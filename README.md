@@ -1,4 +1,7 @@
- Hello there!
+<h1 style="color: #847E89;">
+ Hello there! Welcome to my GitHub profile!
+  <img src="https://giphy.com/gifs/pixelart-pixel-art-8bit-utfeiHQ7CcpyRtXla6" width="50"/>
+</h1> 
 
 ✨ I’m Nat, nice to meet you!<br>
 🎓 I recently graduated in Systems Analysis and Development (:<br>
