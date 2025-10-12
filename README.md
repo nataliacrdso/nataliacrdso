@@ -11,5 +11,6 @@
 🔗 Linkedin: https://www.linkedin.com/in/natcardoso/<br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=radical)<br>
+
 [Potatoes Killer](https://github.com/nataliacrdso/PotatoesKiller) – A simple and fun game that I loved making :D<br>
 
