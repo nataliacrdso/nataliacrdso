@@ -18,7 +18,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=radical" width="400" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=radical" width="400" height="200"/>
-</p>p<br>
+</p>
 
 <hr style="border: 0.2px solid #ccc;">
 
