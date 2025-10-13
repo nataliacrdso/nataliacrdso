@@ -13,14 +13,14 @@
 📩 E-mail: nat1998@outlook.com.br<br>
 🔗 Linkedin: https://www.linkedin.com/in/natcardoso/<br>
 
-<hr style="solid #ccc;">
+<hr style="border: 0.2px solid #444; margin: 20px 0;">
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=material-palenight" width="400" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=material-palenight" width="400" height="400"/>
 </p>
 
-<hr style="solid #ccc;">
+<hr style="border: 0.2px solid #444; margin: 20px 0;">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<hr style="solid #ccc;">
+<hr style="border: 0.2px solid #444; margin: 20px 0;">
 
 <p align="center">
   <a href="https://discord.com/invite/natalia048055">
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<hr style="solid #ccc;">
+<hr style="border: 0.2px solid #444; margin: 20px 0;">
 
 <h4 align="center">
     <img src="image/18f76ecb111c75b4c4a40106a2985745.gif" width="160"/> 
