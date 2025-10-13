@@ -18,6 +18,11 @@
 [Potatoes Killer](https://github.com/nataliacrdso/PotatoesKiller) – A simple and fun game that I loved making :D<br>
 
 <h4>
-    <img src="image/18f76ecb111c75b4c4a40106a2985745.gif" width="150"/>
+    <img src="image/plantinha" width="50"/>
+    <img src="image/plantinha" width="50"/>
+    <img src="image/plantinha" width="50"/>
+    <img src="image/plantinha" width="50"/>
+    <img src="image/plantinha" width="50"/>
+    
 </h4>
 
