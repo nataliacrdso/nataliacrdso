@@ -1,6 +1,6 @@
 <h4>
   Hello there! Welcome to my GitHub profile!
-  <img src="image/sapo.png" width="50"/>
+  <img src="image/sapo.png" width="35"/>
 </h4> 
 
 ✨ I’m Nat, nice to meet you!<br>
