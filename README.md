@@ -31,10 +31,6 @@
 <hr style="solid #ccc;">
 
 <p align="center">
-[Potatoes Killer](https://github.com/nataliacrdso/PotatoesKiller) – A simple and fun game that I loved making :D
-</p>
-
-<p align="center">
   <a href="https://discord.com/invite/natalia048055">
     <img src="https://img.shields.io/badge/Discord-7272AB?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
