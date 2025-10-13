@@ -12,14 +12,18 @@
 📝 Exploring new technologies and challenges.<br>
 📩 E-mail: nat1998@outlook.com.br<br>
 🔗 Linkedin: https://www.linkedin.com/in/natcardoso/<br>
-___
+[![Discord](https://img.shields.io/badge/Discord-BABFD1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/natalia048055)
 
+<hr style="border: 0.5px solid #ccc;">
+
+![Nat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=radical)<br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,pycharm,vscode,eclipse,figma,)](https://skillicons.dev)<br>
 
 [Potatoes Killer](https://github.com/nataliacrdso/PotatoesKiller) – A simple and fun game that I loved making :D<br>
-___
+
+<hr style="border: 0.5px solid #ccc;">
 
 <h4 align="center">
     <img src="image/18f76ecb111c75b4c4a40106a2985745.gif" width="160"/> 
