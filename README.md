@@ -13,7 +13,9 @@
 📩 E-mail: nat1998@outlook.com.br<br>
 🔗 Linkedin: https://www.linkedin.com/in/natcardoso/<br>
 
----
+<p style="color"=#30363d>
+    _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=material-palenight" width="400" height="200"/>
