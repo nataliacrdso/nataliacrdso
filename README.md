@@ -13,14 +13,14 @@
 📩 E-mail: nat1998@outlook.com.br<br>
 🔗 Linkedin: https://www.linkedin.com/in/natcardoso/<br>
 
-<hr style="border: 0.2px solid #ccc;">
+<hr style="border: 0.0px solid #ccc;">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=radical" width="400" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=radical" width="400" height="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=radical" width="400" height="200"/>
 </p>
 
-<hr style="border: 0.2px solid #ccc;">
+<hr style="border: 0.0px solid #ccc;">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,13 +28,13 @@
   </a>
 </p>
 
-<hr style="border: 0.2px solid #ccc;">
+<hr style="border: 0.0px solid #ccc;">
 
 [Potatoes Killer](https://github.com/nataliacrdso/PotatoesKiller) – A simple and fun game that I loved making :D<br>
 
 [![Discord](https://img.shields.io/badge/Discord-7272AB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/natalia048055)
 
-<hr style="border: 0.2px solid #ccc;">
+<hr style="border: 0.0px solid #ccc;">
 
 <h4 align="center">
     <img src="image/18f76ecb111c75b4c4a40106a2985745.gif" width="160"/> 
