@@ -1,6 +1,6 @@
 <h4>
   Hello there! Welcome to my GitHub profile!
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRnbmVvbzlkZmlwczlxb3U4Z2dzbmx4YXZ3MmRyY3RsbHoyZmhnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif" width="25"/>
+  <img src="image/sapo.png" width="25"/>
 </h4> 
 
 ✨ I’m Nat, nice to meet you!<br>
