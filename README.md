@@ -16,8 +16,8 @@
 <hr style="border: 0.0px solid #ccc;">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=radical" width="400" height="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=radical" width="400" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=radical" width="400" height="400"/>
 </p>
 
 <hr style="border: 0.0px solid #ccc;">
@@ -32,7 +32,11 @@
 
 [Potatoes Killer](https://github.com/nataliacrdso/PotatoesKiller) – A simple and fun game that I loved making :D<br>
 
-[![Discord](https://img.shields.io/badge/Discord-7272AB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/natalia048055)
+<p align="center">
+  <a href="https://discord.com/invite/natalia048055">
+    <img src="https://img.shields.io/badge/Discord-7272AB?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 <hr style="border: 0.0px solid #ccc;">
 
