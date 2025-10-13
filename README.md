@@ -12,16 +12,23 @@
 📝 Exploring new technologies and challenges.<br>
 📩 E-mail: nat1998@outlook.com.br<br>
 🔗 Linkedin: https://www.linkedin.com/in/natcardoso/<br>
-[![Discord](https://img.shields.io/badge/Discord-BABFD1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/natalia048055)
 
 <hr style="border: 0.5px solid #ccc;">
 
-![Nat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=radical)<br>
+<img src="https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=radical" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=radical" width="400"/><br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,pycharm,vscode,eclipse,figma,)](https://skillicons.dev)<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,pycharm,vscode,eclipse,figma"/>
+  </a>
+</p><br>
+
+<hr style="border: 0.5px solid #ccc;">
 
 [Potatoes Killer](https://github.com/nataliacrdso/PotatoesKiller) – A simple and fun game that I loved making :D<br>
+
+[![Discord](https://img.shields.io/badge/Discord-7272AB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/natalia048055)
 
 <hr style="border: 0.5px solid #ccc;">
 
