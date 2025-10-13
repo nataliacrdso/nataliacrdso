@@ -16,8 +16,8 @@
 <hr style="border: 0.5px solid #ccc;">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=radical" width="200" height="150/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=radical" width="200" height"150/>
+<img src="https://github-readme-stats.vercel.app/api?username=nataliacrdso&show_icons=true&theme=radical" width="400" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natcardoso&layout=compact&theme=radical" width="400" height="200"/>
 <p/><br>
 
 <hr style="border: 0.5px solid #ccc;">
